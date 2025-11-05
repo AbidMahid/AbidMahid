@@ -88,25 +88,21 @@ I love designing scalable backend systems, solving complex problems, and buildin
 
   <!-- Machine Learning -->
   <div style="display: flex; align-items: center; gap: 12px; width: 250px;">
-    <img src="https://img.icons8.com/color/48/machine-learning.png" alt="Machine Learning" width="35" height="35">
     <strong style="color: #cccccc; font-size: 14px;">MACHINE LEARNING</strong>
   </div>
 
   <!-- Data Science -->
   <div style="display: flex; align-items: center; gap: 12px; width: 250px;">
-    <img src="https://img.icons8.com/color/48/data-configuration.png" alt="Data Science" width="35" height="35">
     <strong style="color: #cccccc; font-size: 14px;">DATA SCIENCE</strong>
   </div>
 
   <!-- Artificial Intelligence -->
   <div style="display: flex; align-items: center; gap: 12px; width: 250px;">
-    <img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="Artificial Intelligence" width="35" height="35">
     <strong style="color: #cccccc; font-size: 14px;">ARTIFICIAL INTELLIGENCE</strong>
   </div>
 
   <!-- Software Engineering -->
   <div style="display: flex; align-items: center; gap: 12px; width: 250px;">
-    <img src="https://img.icons8.com/color/48/code.png" alt="Software Engineering" width="35" height="35">
     <strong style="color: #cccccc; font-size: 14px;">SOFTWARE ENGINEERING</strong>
   </div>
 
