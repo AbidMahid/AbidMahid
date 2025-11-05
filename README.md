@@ -69,13 +69,13 @@ I love designing scalable backend systems, solving complex problems, and buildin
 <!-- Languages & Frameworks Section -->
 <h3 align="center" style="color: #00F7FF; margin-bottom: 20px;">Languages & Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,java,python,js,ts,nodejs,nestjs,nextjs&perline=5" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,java,python,js&perline=5" alt="Languages & Frameworks" />
 </p>
 
 <!-- Tools & Platforms Section -->
 <h3 align="center" style="color: #00F7FF; margin-top: 25px; margin-bottom: 20px;">Tools & Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,oracle,postgresql,git,docker&perline=5" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,figma,oracle,git&perline=5" alt="Tools & Platforms" />
 </p>
 
 <!-- Interests Section -->
