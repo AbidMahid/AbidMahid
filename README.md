@@ -4,8 +4,6 @@ Hey there, I'm Abid Hossain Mahid
 
 ### Software Engineer | .NET & Full Stack Developer | AI & Data Science Enthusiast
 
-
-
 ---
 
 ### 📊 GitHub Stats & Socials
@@ -83,29 +81,40 @@ I love designing scalable backend systems, solving complex problems, and buildin
   💡 Interests
 </h3>
 
+<!-- Interests Container - UPDATED -->
+<div align="center" style="display: flex; justify-content: center; gap: 30px; margin: 20px 0; flex-wrap: wrap;">
+
 <!-- Interests Container -->
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 15px; margin: 20px 0;">
+<div align="center" style="display: flex; justify-content: center; gap: 15px; margin: 20px 0; flex-wrap: wrap;">
+
+  <!-- Interests Container -->
+<div align="center" style="display: flex; justify-content: center; gap: 12px; margin: 20px 0; flex-wrap: wrap;">
 
   <!-- Machine Learning -->
-  <div style="display: flex; align-items: center; gap: 12px; width: 250px;">
-    <strong style="color: #cccccc; font-size: 14px;">MACHINE LEARNING</strong>
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; width: 130px; height: 80px; padding: 10px; background: linear-gradient(135deg, rgba(0, 247, 255, 0.15) 0%, rgba(15, 32, 47, 0.3) 100%); border-radius: 10px; border: 1px solid #00F7FF; box-shadow: 0 4px 12px rgba(0, 247, 255, 0.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="22" height="22" />
+    <strong style="color: #ffffff; font-size: 11px; text-align: center;">MACHINE LEARNING</strong>
   </div>
 
   <!-- Data Science -->
-  <div style="display: flex; align-items: center; gap: 12px; width: 250px;">
-    <strong style="color: #cccccc; font-size: 14px;">DATA SCIENCE</strong>
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; width: 130px; height: 80px; padding: 10px; background: linear-gradient(135deg, rgba(0, 247, 255, 0.15) 0%, rgba(15, 32, 47, 0.3) 100%); border-radius: 10px; border: 1px solid #00F7FF; box-shadow: 0 4px 12px rgba(0, 247, 255, 0.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="22" height="22" />
+    <strong style="color: #ffffff; font-size: 11px; text-align: center;">DATA SCIENCE</strong>
   </div>
 
   <!-- Artificial Intelligence -->
-  <div style="display: flex; align-items: center; gap: 12px; width: 250px;">
-    <strong style="color: #cccccc; font-size: 14px;">ARTIFICIAL INTELLIGENCE</strong>
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; width: 130px; height: 80px; padding: 10px; background: linear-gradient(135deg, rgba(0, 247, 255, 0.15) 0%, rgba(15, 32, 47, 0.3) 100%); border-radius: 10px; border: 1px solid #00F7FF; box-shadow: 0 4px 12px rgba(0, 247, 255, 0.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" height="22" />
+    <strong style="color: #ffffff; font-size: 11px; text-align: center;">ARTIFICIAL INTELLIGENCE</strong>
   </div>
 
   <!-- Software Engineering -->
-  <div style="display: flex; align-items: center; gap: 12px; width: 250px;">
-    <strong style="color: #cccccc; font-size: 14px;">SOFTWARE ENGINEERING</strong>
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; width: 130px; height: 80px; padding: 10px; background: linear-gradient(135deg, rgba(0, 247, 255, 0.15) 0%, rgba(15, 32, 47, 0.3) 100%); border-radius: 10px; border: 1px solid #00F7FF; box-shadow: 0 4px 12px rgba(0, 247, 255, 0.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="22" height="22" />
+    <strong style="color: #ffffff; font-size: 11px; text-align: center;">SOFTWARE ENGINEERING</strong>
   </div>
 
+</div>
 </div>
 
 </div>
@@ -128,20 +137,15 @@ I love designing scalable backend systems, solving complex problems, and buildin
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abidmahid&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abidmahid&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidmahid&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=abidmahid&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidmahid&layout=compact&theme=radical&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" width="400" height="200" />
+  </p>
+</div>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abidmahid&theme=react-dark&bg_color=0d1117&hide_border=true&line=00f7ff&point=1f6feb&area=true&area_color=161b22" width="90%" alt="GitHub Activity Graph"/>
 </p>
-
-
 
 ---
 
