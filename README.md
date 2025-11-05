@@ -134,7 +134,6 @@ I love designing scalable backend systems, solving complex problems, and buildin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidmahid&layout=compact&theme=radical&hide_border=true" width="40%" />
 </p>
 
 <!-- GitHub Contribution Graph -->
