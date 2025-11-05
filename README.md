@@ -131,17 +131,17 @@ I love designing scalable backend systems, solving complex problems, and buildin
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abidmahid&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abidmahid&theme=radical&hide_border=true" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidmahid&layout=compact&theme=radical&hide_border=true" width="40%" />
-
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidmahid&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<!-- GitHub Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abidmahid&theme=react-dark&bg_color=0d1117&hide_border=true&line=00f7ff&point=1f6feb&area=true&area_color=161b22" width="90%" alt="GitHub Activity Graph"/>
 </p>
+
+
 
 ---
 
