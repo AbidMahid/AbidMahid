@@ -5,7 +5,6 @@ Hey there, I'm Abid Hossain Mahid
 ### Software Engineer | .NET & Full Stack Developer | AI & Data Science Enthusiast
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Abid+Hossain+Mahid;Software+Engineer+%7C+.NET+%26+Full+Stack+Developer;AI+%26+Data+Science+Enthusiast+from+Bangladesh" alt="Typing SVG" />
 
 ---
 
