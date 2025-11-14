@@ -167,7 +167,7 @@ I love designing scalable backend systems, solving complex problems, and buildin
   Feel free to reach out for collaborations, projects, or just a tech chat!<br>
   Always open to new opportunities and interesting challenges.<br><br>
   
-  📧 <strong>abidmahid@gmail.com</strong> | 
+  📧 <strong>abidmahid2015@gmail.com</strong> | 
   💼 <strong>Open for collaborations</strong> | 
   🌐 <strong>Let's build something amazing!</strong>
 </p>
