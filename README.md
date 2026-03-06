@@ -4,6 +4,9 @@ Hey there, I'm Abid Hossain Mahid
 
 ### Software Engineer | .NET & Full Stack Developer | AI & Data Science Enthusiast
 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Abid+Hossain+Mahid;Software+Engineer+%7C+.NET+%26+Full+Stack+Developer;AI+%26+Data+Science+Enthusiast+from+Bangladesh" alt="Typing SVG" />
+
 ---
 
 ### 📊 GitHub Stats & Socials
@@ -18,7 +21,7 @@ Hey there, I'm Abid Hossain Mahid
   <a href="https://github.com/abidmahid" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:abidmahid2015@gmail.com" target="_blank">
+  <a href="mailto:abidmahid@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -67,13 +70,13 @@ I love designing scalable backend systems, solving complex problems, and buildin
 <!-- Languages & Frameworks Section -->
 <h3 align="center" style="color: #00F7FF; margin-bottom: 20px;">Languages & Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,java,python,js&perline=5" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,java,python,js,ts,nodejs,nestjs,nextjs&perline=5" alt="Languages & Frameworks" />
 </p>
 
 <!-- Tools & Platforms Section -->
 <h3 align="center" style="color: #00F7FF; margin-top: 25px; margin-bottom: 20px;">Tools & Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,figma,oracle,git&perline=5" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,oracle,postgresql,git,docker&perline=5" alt="Tools & Platforms" />
 </p>
 
 <!-- Interests Section -->
@@ -81,40 +84,33 @@ I love designing scalable backend systems, solving complex problems, and buildin
   💡 Interests
 </h3>
 
-<!-- Interests Container - UPDATED -->
-<div align="center" style="display: flex; justify-content: center; gap: 30px; margin: 20px 0; flex-wrap: wrap;">
-
 <!-- Interests Container -->
-<div align="center" style="display: flex; justify-content: center; gap: 15px; margin: 20px 0; flex-wrap: wrap;">
-
-  <!-- Interests Container -->
-<div align="center" style="display: flex; justify-content: center; gap: 12px; margin: 20px 0; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 15px; margin: 20px 0;">
 
   <!-- Machine Learning -->
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; width: 130px; height: 80px; padding: 10px; background: linear-gradient(135deg, rgba(0, 247, 255, 0.15) 0%, rgba(15, 32, 47, 0.3) 100%); border-radius: 10px; border: 1px solid #00F7FF; box-shadow: 0 4px 12px rgba(0, 247, 255, 0.2);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="22" height="22" />
-    <strong style="color: #ffffff; font-size: 11px; text-align: center;">MACHINE LEARNING</strong>
+  <div style="display: flex; align-items: center; gap: 12px; width: 250px;">
+    <img src="https://img.icons8.com/color/48/machine-learning.png" alt="Machine Learning" width="35" height="35">
+    <strong style="color: #cccccc; font-size: 14px;">MACHINE LEARNING</strong>
   </div>
 
   <!-- Data Science -->
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; width: 130px; height: 80px; padding: 10px; background: linear-gradient(135deg, rgba(0, 247, 255, 0.15) 0%, rgba(15, 32, 47, 0.3) 100%); border-radius: 10px; border: 1px solid #00F7FF; box-shadow: 0 4px 12px rgba(0, 247, 255, 0.2);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="22" height="22" />
-    <strong style="color: #ffffff; font-size: 11px; text-align: center;">DATA SCIENCE</strong>
+  <div style="display: flex; align-items: center; gap: 12px; width: 250px;">
+    <img src="https://img.icons8.com/color/48/data-configuration.png" alt="Data Science" width="35" height="35">
+    <strong style="color: #cccccc; font-size: 14px;">DATA SCIENCE</strong>
   </div>
 
   <!-- Artificial Intelligence -->
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; width: 130px; height: 80px; padding: 10px; background: linear-gradient(135deg, rgba(0, 247, 255, 0.15) 0%, rgba(15, 32, 47, 0.3) 100%); border-radius: 10px; border: 1px solid #00F7FF; box-shadow: 0 4px 12px rgba(0, 247, 255, 0.2);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" height="22" />
-    <strong style="color: #ffffff; font-size: 11px; text-align: center;">ARTIFICIAL INTELLIGENCE</strong>
+  <div style="display: flex; align-items: center; gap: 12px; width: 250px;">
+    <img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="Artificial Intelligence" width="35" height="35">
+    <strong style="color: #cccccc; font-size: 14px;">ARTIFICIAL INTELLIGENCE</strong>
   </div>
 
   <!-- Software Engineering -->
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; width: 130px; height: 80px; padding: 10px; background: linear-gradient(135deg, rgba(0, 247, 255, 0.15) 0%, rgba(15, 32, 47, 0.3) 100%); border-radius: 10px; border: 1px solid #00F7FF; box-shadow: 0 4px 12px rgba(0, 247, 255, 0.2);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="22" height="22" />
-    <strong style="color: #ffffff; font-size: 11px; text-align: center;">SOFTWARE ENGINEERING</strong>
+  <div style="display: flex; align-items: center; gap: 12px; width: 250px;">
+    <img src="https://img.icons8.com/color/48/code.png" alt="Software Engineering" width="35" height="35">
+    <strong style="color: #cccccc; font-size: 14px;">SOFTWARE ENGINEERING</strong>
   </div>
 
-</div>
 </div>
 
 </div>
@@ -137,12 +133,16 @@ I love designing scalable backend systems, solving complex problems, and buildin
 
 ### 📈 GitHub Analytics
 
-<div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abidmahid&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidmahid&layout=compact&theme=radical&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" width="400" height="200" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abidmahid&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abidmahid&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidmahid&layout=compact&theme=radical&hide_border=true" width="40%" />
+</p>
+
+<!-- GitHub Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abidmahid&theme=react-dark&bg_color=0d1117&hide_border=true&line=00f7ff&point=1f6feb&area=true&area_color=161b22" width="90%" alt="GitHub Activity Graph"/>
 </p>
@@ -167,7 +167,7 @@ I love designing scalable backend systems, solving complex problems, and buildin
   Feel free to reach out for collaborations, projects, or just a tech chat!<br>
   Always open to new opportunities and interesting challenges.<br><br>
   
-  📧 <strong>abidmahid2015@gmail.com</strong> | 
+  📧 <strong>abidmahid@gmail.com</strong> | 
   💼 <strong>Open for collaborations</strong> | 
   🌐 <strong>Let's build something amazing!</strong>
 </p>
@@ -178,3 +178,23 @@ I love designing scalable backend systems, solving complex problems, and buildin
 > *"Good design is where creativity meets functionality."*
 
 </div>
+
+
+
+
+------------------------------------------------------------------------------------------
+
+
+    <img src="https://img.icons8.com/color/48/machine-learning.png" alt="Machine Learning" width="35" height="35">
+
+
+
+    <img src="https://img.icons8.com/color/48/data-configuration.png" alt="Data Science" width="35" height="35">
+
+
+    <img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="Artificial Intelligence" width="35" height="35">
+
+
+
+    <img src="https://img.icons8.com/color/48/code.png" alt="Software Engineering" width="35" height="35">
+
