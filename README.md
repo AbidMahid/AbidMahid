@@ -4,8 +4,8 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 Currently learning **NestJS, Next.js, TypeScript & Machine Learning**
-- 💬 Ask me about **C++, Java, PHP, JavaScript, .NET & Backend Development**
+- 🌱 Currently learning **Data Warehousing, Data Mining, TypeScript & Machine Learning**
+- 💬 Ask me about **C++, Java, PHP, Python, JavaScript, .NET & Backend Development**
 - 🚀 Working on **Web Applications & AI Research Projects**
 - 📫 Reach me at: **abidmahid@gmail.com**
 
