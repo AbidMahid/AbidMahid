@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abid Hossain Mahid
 
-### 💻 Software Engineer | Full Stack Developer | AI & Data Science Enthusiast
+### 💻 Data Analyst | Full Stack Developer | AI & Data Science Enthusiast
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -40,12 +40,10 @@
 
 # 📊 GitHub Status
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abidmahid&show_icons=true&theme=tokyonight" width="48%" />
+<div align="center">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abidmahid&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abidmahid&theme=tokyonight" width="48%" />
-</p>
-
+</div>
 ---
 
 # 🐍 Contribution Snake
