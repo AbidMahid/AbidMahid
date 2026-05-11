@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 Currently learning **Data Warehousing, Data Mining, TypeScript & Machine Learning**
-- 💬 Ask me about **C++, Java, PHP, Python, JavaScript, .NET & Backend Development**
+- 💬 Ask me about **C++, Java,CSS, HTML, C#, PHP, Python, JavaScript, .NET & Backend Development**
 - 🚀 Working on **Web Applications & AI Research Projects**
 - 📫 Reach me at: **abidmahid@gmail.com**
 
