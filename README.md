@@ -7,7 +7,7 @@
 - 🌱 Currently learning **Data Warehousing, Data Mining, TypeScript & Machine Learning**
 - 💬 Ask me about **C++, Java,CSS, HTML, C#, PHP, Python, JavaScript, .NET & Backend Development**
 - 🚀 Working on **Web Applications & AI Research Projects**
-- 📫 Reach me at: **abidmahid@gmail.com**
+- 📫 Reach me at: **abidmahid2015@gmail.com**
 
 ---
 
@@ -22,7 +22,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="mailto:abidmahid@gmail.com">
+<a href="mailto:abidmahid2015@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 </p>
