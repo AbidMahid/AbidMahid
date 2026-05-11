@@ -14,7 +14,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abid-mahid-8a623340a/" target="blank">
+<a href="https://www.linkedin.com/in/abid-mahid-8a623340a/?skipRedirect=true" target="blank">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
